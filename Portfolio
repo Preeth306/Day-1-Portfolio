@@ -1,0 +1,70 @@
+>Preethi's Portfolio</title>
+</head>
+
+<body style="background-color: #B1E1FF">
+    <nav style="color:black ;background-color: blue; border: solid white 5px; padding: 15px; flex-direction:row; display: flex; justify-content: space-between;">
+        <h1>My Website</h1>
+    
+        <div>
+            <a style="margin: 5px;color: black" href="index.html">About Me</a>
+            <a style="margin: 5px;color: black" href="index.html">My Projects</a>
+            <a style="margin: 5px;color: black" href="contact.html">Contact Me</a>
+        </div>
+    
+    </nav>
+
+    <div style="display: flex;flex-wrap: wrap;flex-direction: row;">
+        
+        <div>
+            <h1>My name is Preethi V</h1>
+            <p>I am currently pursuing Bachelor's degree in Computer Science and Engineering.</p>
+            <p>My skills are :</p>
+    
+            <div style="flex-direction:row; display: flex;flex-wrap: wrap;">
+                <div>
+                    <div style="border: solid white 5px; margin:10px; width: 215px;">
+                        <h1 style="color: black; background-color: blue; margin: 0px;">C</h1>
+                        <p>I have very good hands on experience with C.I have been practising it for 3+ years.</p>
+                    </div>
+                </div>
+        
+                <div>
+                    <div style="border: solid white 5px; margin:10px; width: 215px;">
+                        <h1 style="color: black; background-color: blue; margin: 0px;">Python</h1>
+                        <p>Python is my second go to language. I have 2 years of experience in it. I enjoy using phython during coding.</p>
+                    </div>
+                </div>
+        
+                <div>
+                    <div style="border: solid white 5px; margin:10px;width: 215px;">
+                        <h1 style="color: black; background-color: blue; margin: 0px;">C++</h1>
+                        <p>I have good hands on experinence with C++. I have been pratising it for 2+years.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div style="flex-direction:row; display: flex;flex-wrap: wrap;">
+                <div>
+                    <div style="border: solid white 5px; margin:10px;width: 215px;">
+                        <h1 style="color: black; background-color: blue; margin: 0px;">HTML/CSS</h1>
+                        <p>I am a beginner in them, I have self taught knowledge in them. </p>
+                    </div>
+                </div>
+    
+                <div>
+                    <div style="border: solid white 5px; margin:10px;width: 215px;">
+                        <h1 style="color: black; background-color: blue; margin: 0px;">Java</h1>
+                        <p> I have been practising java for more than a year now and I am enjoying the knowledge I have gained so far. </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div style="color: black ;background-color: blue; border: solid white 5px; padding: 15px; flex-direction:row; display: flex; justify-content: space-between;">
+            <div>
+                <h2>My Projects:</h2> 
+                <p>Ticket Booking Application,</p>
+                <p>Fitness Tracking Application.</p> 
+            </div>
+            
+        </div>
